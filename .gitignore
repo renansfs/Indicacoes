@@ -1,3 +1,4 @@
 1991-1993.csv
 *.pyc
 env/
+secret.py
